@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolios on ATTILA KATONA</title>
+    <link>https://akatona766.github.io/akatona766/portfolio/</link>
+    <description>Recent content in Portfolios on ATTILA KATONA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 05 Nov 2016 19:41:01 +0530</lastBuildDate><atom:link href="https://akatona766.github.io/akatona766/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>UI / UX Dashboard Editor and Chart Editor</title>
+      <link>https://akatona766.github.io/akatona766/portfolio/work2/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>https://akatona766.github.io/akatona766/portfolio/work2/</guid>
+      <description>&lt;p&gt;Brief introduction of a few other large projects&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>UI and implementation: Dynamic Email Templates</title>
+      <link>https://akatona766.github.io/akatona766/portfolio/work3/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>https://akatona766.github.io/akatona766/portfolio/work3/</guid>
+      <description>&lt;p&gt;Complex dynamic email templates designed in Figma, implemented in SendGrid.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>UI design: Column charts</title>
+      <link>https://akatona766.github.io/akatona766/portfolio/work4/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>https://akatona766.github.io/akatona766/portfolio/work4/</guid>
+      <description>&lt;p&gt;Prototyping flexible charts and designing for accessibility&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Vintage UI / Video Project: EqualTo 30</title>
+      <link>https://akatona766.github.io/akatona766/portfolio/work5/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>https://akatona766.github.io/akatona766/portfolio/work5/</guid>
+      <description>&lt;p&gt;April&amp;rsquo;s fools project  - Porting modern software (EqualTo) to Windows 3.11 and presenting it as a tech infomercial.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>UI/UX: EqualTo Dashboard</title>
+      <link>https://akatona766.github.io/akatona766/portfolio/work1/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>https://akatona766.github.io/akatona766/portfolio/work1/</guid>
+      <description>&lt;p&gt;Designing an unusual dashboard system from scratch.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
