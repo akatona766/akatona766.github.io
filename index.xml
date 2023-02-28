@@ -6,50 +6,50 @@
     <description>Recent content on Attila Katona</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 06 Nov 2016 13:00:25 +0530</lastBuildDate><atom:link href="https://akatona766.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 02 Jan 2023 18:36:22 +0530</lastBuildDate><atom:link href="https://akatona766.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>UI / UX Dashboard Editor and Chart Editor</title>
+      <title>UI/UX: EqualTo Dashboard</title>
+      <link>https://akatona766.github.io/portfolio/work1/</link>
+      <pubDate>Mon, 02 Jan 2023 18:36:22 +0530</pubDate>
+      
+      <guid>https://akatona766.github.io/portfolio/work1/</guid>
+      <description>&lt;p&gt;Designing a unique dashboard system from scratch.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Showcase: Dashboard Editor and Chart Editor</title>
       <link>https://akatona766.github.io/portfolio/work2/</link>
-      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      <pubDate>Mon, 02 Jan 2023 18:34:22 +0530</pubDate>
       
       <guid>https://akatona766.github.io/portfolio/work2/</guid>
       <description>&lt;p&gt;Brief introduction of a few other large projects&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>UI and implementation: Dynamic Email Templates</title>
-      <link>https://akatona766.github.io/portfolio/work3/</link>
-      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
-      
-      <guid>https://akatona766.github.io/portfolio/work3/</guid>
-      <description>&lt;p&gt;Complex dynamic email templates designed in Figma, implemented in SendGrid.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>UI design: Column charts</title>
       <link>https://akatona766.github.io/portfolio/work4/</link>
-      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      <pubDate>Mon, 02 Jan 2023 18:33:22 +0530</pubDate>
       
       <guid>https://akatona766.github.io/portfolio/work4/</guid>
       <description>&lt;p&gt;Prototyping flexible charts and designing for accessibility&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Vintage UI / Video Project: EqualTo 30</title>
-      <link>https://akatona766.github.io/portfolio/work5/</link>
-      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      <title>UI and implementation: Dynamic Email Templates</title>
+      <link>https://akatona766.github.io/portfolio/work3/</link>
+      <pubDate>Mon, 02 Jan 2023 18:32:22 +0530</pubDate>
       
-      <guid>https://akatona766.github.io/portfolio/work5/</guid>
-      <description>&lt;p&gt;April&amp;rsquo;s fools project  - Porting modern software (EqualTo) to Windows 3.11 and presenting it as a tech infomercial.&lt;/p&gt;</description>
+      <guid>https://akatona766.github.io/portfolio/work3/</guid>
+      <description>&lt;p&gt;Complex dynamic email templates designed in Figma, implemented in SendGrid.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>UI/UX: EqualTo Dashboard</title>
-      <link>https://akatona766.github.io/portfolio/work1/</link>
-      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      <title>Vintage UI / Video Project: EqualTo 30</title>
+      <link>https://akatona766.github.io/portfolio/work5/</link>
+      <pubDate>Mon, 02 Jan 2023 18:31:22 +0530</pubDate>
       
-      <guid>https://akatona766.github.io/portfolio/work1/</guid>
-      <description>&lt;p&gt;Designing an unusual dashboard system from scratch.&lt;/p&gt;</description>
+      <guid>https://akatona766.github.io/portfolio/work5/</guid>
+      <description>&lt;p&gt;April&amp;rsquo;s fools project  - Porting modern software (EqualTo) to Windows 3.1 and presenting it as a tech infomercial.&lt;/p&gt;</description>
     </item>
     
   </channel>

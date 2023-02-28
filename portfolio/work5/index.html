@@ -3,7 +3,7 @@
 <head><meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <title>Attila Katona</title>
-<meta name="description" content="Describe your website">
+<meta name="description" content="Attila Katona UI/UX designer portfolio">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://akatona766.github.io/css/bootstrap.min.css">
 <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:400,300,700,400italic">
@@ -94,28 +94,53 @@
     <div class="col-lg-8">
       <div class="content-column-content">
          <h1>Vintage UI / Video Project: EqualTo 30</h1>
-         <p>April&rsquo;s fools project  - Porting modern software (EqualTo) to Windows 3.11 and presenting it as a tech infomercial.</p>
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe src="https://www.youtube.com/embed/fO9ZqpFLKJQ" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
-</div>
-
-<h1 id="heading"></h1>
-<p>For EqualTo’s April 1st post I thought of creating a little alternate history by bringing our software back to 1992. The main sources of humor was based on:</p>
+         <p>April&rsquo;s fools project  - Porting modern software (EqualTo) to Windows 3.1 and presenting it as a tech infomercial.</p>
+<div class="container">
+    <div id="player-wrapper" class="my-5"></div>
+  </div>
+  
+  <script 
+    type="text/javascript" 
+    src="https://cdn.jsdelivr.net/npm/@clappr/player@latest/dist/clappr.min.js"
+  >
+  </script>
+  
+  <script>
+    var playerElement = document.getElementById("player-wrapper");
+  
+    var player = new Clappr.Player({
+      source: "/img/1992/EqualTo264.mp4",
+      mute: false,
+      height: 360,
+      width: 480
+    });
+  
+    player.attachTo(playerElement);  
+  </script>
+  
+<h4 id="the-concept">The concept</h4>
+<p>For EqualTo’s April 1st post I thought of creating a video from a parallel universe where our software has already existed back to 1992. The main sources of humor were:</p>
 <ul>
-<li>How certain services would have made no sense in 1992 technology (think of the &lsquo;Instagram in the 80s&rsquo; kind of videos)</li>
-<li>The charm of outdated tech and tech jargon (Floppy diskettes)</li>
+<li>How our tech would have made little sense as &lsquo;cloud&rsquo; wasn&rsquo;t really a thing yet</li>
+<li>Outdated tech buzzwords like &rsquo;the information age&rsquo;</li>
 <li>Infomercial cringe (Call 1-800-INCENTIVIZE)</li>
 </ul>
-<p>The app was designed in Visual Basic 3.0, in native Windows 3.11 / IBM ThinkPad 380XD. I’ve sketched up a few app designs, and I’ve eventually learned that the key to invoke a vintage feel is to exaggerate the style of the time period. Most Windows software from 1992 looked much more modern than we think of it. The intentionally clumsy use of big buttons, random unexplained color choices and system fonts, together with the possible lowest resolution helped to get the point across that this is vintage software.</p>
+<h4 id="software-development">Software development</h4>
+<p>The app was a real working dummy software running on Windows 3.1. I’ve created multiple multiple designs actually, the one I&rsquo;ve settled on uses the most exaggerated vintage design elements which would have been outdated even in 1992, for example using the System font, double borders and unexplained color choices. Manwhile the layout still reflected our modern software&rsquo;s layout.</p>
 <p><img src="/img/1992/editor.jpg" alt="image"></p>
-<p>The final script was written after having the software ready, and fun fact: about 2/3rd of the content was discarded before production. I’ve stitched my colleague’s voice clips together to a continuous voiceover and recorded the video to match it. For this, the software was running in a DosBox Win3.11 install, having the CPU turned down as low as possible in order to enhance those retro screen refresh artifacts.</p>
-<p>In post production I wanted to add a CRT effect which was easily achieved by a few filters:</p>
+<h4 id="script-and-voiceover">Script and voiceover</h4>
+<p>The final script was written after having the software ready and settling on a vague storyline. About 2/3rd of the original content was discarded before production, only keeping the best parts.</p>
+<p>My colleague recorded voice clips that I’ve stitched together into a continuous voiceover and recorded the video to match it. For this, the software was running in a DosBox Win3.11 install, having screen resolution and CPU speed set as low as possible in order to create retro screen refresh artifacts.</p>
+<h4 id="post-production">Post production</h4>
+<p>In post production I&rsquo;ve added a CRT effects using:</p>
 <ul>
-<li>Color correction (shifted towards blue/magenta)</li>
-<li>Some vertical banding to simulate a CRT grid (most similar to Trinitrons&rsquo; <em>phosphor bars</em> )</li>
-<li>Horizontal blur and horizontal picture shift. Both of these should be very subtle, best if barely noticeable. They simulate  <em>scanlines</em> of CRT screens.</li>
+<li>Color correction</li>
+<li>Vertical banding to simulate a CRT grid (most similar to Trinitrons&rsquo; <em>phosphor bars</em> )</li>
+<li>Horizontal blur and horizontal picture shift. Both of these should be very subtle. They simulate  <em>scanlines</em> of CRT screens.</li>
 </ul>
-<p>Overall I’m happy with the outcome and the feedback was positive, however I didn’t have time to correct mistakes regarding the time period, eg. that some of those companies haven’t existed in 1992.</p>
+<h4 id="conclusion">Conclusion</h4>
+<p>Overall I’m happy with the outcome and the feedback was positive.</p>
+<p>However I didn’t have time to correct mistakes regarding the time period, eg. that some of those companies haven’t existed in 1992. Next time I&rsquo;d pay more attenation to historical accuracy.</p>
          
       </div>
     </div>
